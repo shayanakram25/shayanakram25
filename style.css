@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+}
+
+
+#top-blue {
+    background-color: #4285f4;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+#top-text{
+    color:white;
+    font-size: 50pt;
+}
+
+#top-image{
+    width: 200px;
+    height: 200px;
+    border-radius:999px;
+}
+
+#name-image-wrapper > *{
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    display: block;
+}
+
+*{
+    font-family: "Open Sans";
+}
